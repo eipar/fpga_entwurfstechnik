@@ -1,0 +1,994 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/simulation/modelsim
+Eacodec_model
+Z1 w1572880052
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch04/testbench/acodec_model.vhdl
+Z6 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch04/testbench/acodec_model.vhdl
+l0
+L25
+VC[ZBX]F?U7QKPBO8ccoiK0
+!s100 ]>eYj[h2`?AU0?0V;i3dl2
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1579557561
+!i10b 1
+Z9 !s108 1579557561.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch04/testbench/acodec_model.vhdl|
+Z11 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch04/testbench/acodec_model.vhdl|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+DEx4 work 12 acodec_model 0 22 C[ZBX]F?U7QKPBO8ccoiK0
+l65
+L44
+VmWFj;?jb`Fk:6`Ql1W?nd2
+!s100 jj=EBVCWkezH?@S[SlWJ42
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+valtera_reset_controller
+!s110 1579557555
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+Ie4[=^`b[n`bkZ1^cVYLPl3
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z15 w1572880062
+8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_controller.v
+FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_controller.v
+L0 42
+Z16 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z17 !s108 1579557555.000000
+!s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_controller.v|
+!i113 1
+Z18 o-vlog01compat -work work
+Z19 !s92 -vlog01compat -work work +incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl
+Z20 tCvgOpt 0
+valtera_reset_synchronizer
+Z21 !s110 1579557556
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+ICQ_ZIK<Pk<jONM4A4mz>B2
+R14
+R0
+R15
+8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_synchronizer.v
+FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_synchronizer.v
+L0 24
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_synchronizer.v|
+!i113 1
+R18
+R19
+R20
+Eclock_generator
+Z22 w1572880054
+Z23 DPx4 work 16 fpga_audiofx_pkg 0 22 U<97]YdmcWojo]^[^H7z81
+R2
+R3
+R4
+R0
+Z24 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/clock_generator.vhdl
+Z25 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/clock_generator.vhdl
+l0
+L20
+V1T5_zlJS8_2nhJ065hGKT0
+!s100 ZkWJQChGQTYX`[Oa>b0]h1
+R7
+31
+Z26 !s110 1579557559
+!i10b 1
+Z27 !s108 1579557558.000000
+Z28 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/clock_generator.vhdl|
+Z29 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/clock_generator.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 15 clock_generator 0 22 1T5_zlJS8_2nhJ065hGKT0
+l34
+L32
+Vh;dP5R@zoK0AMYiZ3Ea9;0
+!s100 8lZJDQR252cNa@CiA7Led2
+R7
+31
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R12
+R13
+Edelay_unit
+Z30 w1579557257
+R23
+Z31 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R2
+R3
+R4
+R0
+Z32 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/delay_unit.vhdl
+Z33 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/delay_unit.vhdl
+l0
+L21
+Vc`LgdX]dHc3Q@i]JzCo;`0
+!s100 AOiWK`4OKmTgB2X>dMSUD0
+R7
+31
+Z34 !s110 1579557557
+!i10b 1
+Z35 !s108 1579557557.000000
+Z36 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/delay_unit.vhdl|
+Z37 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/delay_unit.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R31
+R2
+R3
+R4
+DEx4 work 10 delay_unit 0 22 c`LgdX]dHc3Q@i]JzCo;`0
+l131
+L59
+VT^X=<U49fCF9h`2zzSDN<0
+!s100 d<B:Tk0a8>h2Z9Hm;OXEL1
+R7
+31
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R12
+R13
+Efifo
+Z38 w1572880056
+R23
+R2
+R3
+R4
+R0
+Z39 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fifo.vhdl
+Z40 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fifo.vhdl
+l0
+L20
+V1Ummg_@ai`^mJn@4_2VEa0
+!s100 oeJZeEEH>X;Ob`[iH:6oa3
+R7
+31
+Z41 !s110 1579557558
+!i10b 1
+R27
+Z42 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fifo.vhdl|
+Z43 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fifo.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 4 fifo 0 22 1Ummg_@ai`^mJn@4_2VEa0
+l55
+L43
+VkN_D0i8X8<M87;kWNUjkX2
+!s100 ?o<om:nHCAJVMYWbOcVko2
+R7
+31
+R41
+!i10b 1
+R27
+R42
+R43
+!i113 1
+R12
+R13
+Efifo_sync_dc
+R15
+R3
+R4
+R0
+Z44 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fifo_sync_dc.vhdl
+Z45 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fifo_sync_dc.vhdl
+l0
+L43
+V98AlEEb@JB?R=o?z4HSdY0
+!s100 8RKbc@55kbe04VWl4ROeg1
+R7
+31
+R34
+!i10b 1
+R35
+Z46 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fifo_sync_dc.vhdl|
+Z47 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fifo_sync_dc.vhdl|
+!i113 1
+R12
+R13
+Asyn
+R3
+R4
+DEx4 work 12 fifo_sync_dc 0 22 98AlEEb@JB?R=o?z4HSdY0
+l110
+L67
+Vm6<24ggc0TFNBZf>M`=7z0
+!s100 RE28[eJo2LY7`VXN;QFR]1
+R7
+31
+R34
+!i10b 1
+R35
+R46
+R47
+!i113 1
+R12
+R13
+Efpga_audiofx
+Z48 w1579557328
+R23
+R2
+R3
+R4
+R0
+Z49 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fpga_audiofx.vhdl
+Z50 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fpga_audiofx.vhdl
+l0
+L20
+VS^978[HK_^QehQ2Tldz`82
+!s100 A2oRiNUlYm@Z9Wb8R]hYE1
+R7
+31
+Z51 !s110 1579557560
+!i10b 1
+Z52 !s108 1579557560.000000
+Z53 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fpga_audiofx.vhdl|
+Z54 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fpga_audiofx.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 12 fpga_audiofx 0 22 S^978[HK_^QehQ2Tldz`82
+l274
+L54
+V7cl=fmX[iVdXz`ke4P6`I2
+!s100 <aS[b=Ga9THLX=g4DjYB73
+R7
+31
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R12
+R13
+Pfpga_audiofx_pkg
+R2
+R3
+R4
+R38
+R0
+Z55 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fpga_audiofx_pkg.vhdl
+Z56 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fpga_audiofx_pkg.vhdl
+l0
+L17
+VU<97]YdmcWojo]^[^H7z81
+!s100 oN]ol1cP:A7k^T@;^ac;A0
+R7
+31
+b1
+R34
+!i10b 1
+Z57 !s108 1579557556.000000
+Z58 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fpga_audiofx_pkg.vhdl|
+Z59 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fpga_audiofx_pkg.vhdl|
+!i113 1
+R12
+R13
+Bbody
+R23
+R2
+R3
+R4
+l0
+L36
+VYGmP9TUk^?mTlo4kHaZ@m1
+!s100 c6Rcb_[If_5[_@dWFi9>l2
+R7
+31
+R34
+!i10b 1
+R57
+R58
+R59
+!i113 1
+R12
+R13
+Efpga_audiofx_tb
+Z60 w1579462890
+R23
+R2
+R3
+R4
+R0
+Z61 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/fpga_audiofx_tb.vhdl
+Z62 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/fpga_audiofx_tb.vhdl
+l0
+L20
+Vn=@jF>c8PWO`PN2?[Ua9E1
+!s100 4PK`jJF2C2e3oZA<CjBFB1
+R7
+31
+R51
+!i10b 1
+R52
+Z63 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/fpga_audiofx_tb.vhdl|
+Z64 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/fpga_audiofx_tb.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 15 fpga_audiofx_tb 0 22 n=@jF>c8PWO`PN2?[Ua9E1
+l107
+L24
+VXK[a0lZkE[1O0SE4Pl?0f1
+!s100 ^VmYA6R?BjWgEDX_R62f]3
+R7
+31
+R51
+!i10b 1
+R52
+R63
+R64
+!i113 1
+R12
+R13
+Ei2c_master
+R38
+R23
+R2
+R3
+R4
+R0
+Z65 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2c_master.vhdl
+Z66 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2c_master.vhdl
+l0
+L28
+VbhD5l`>[2e7UcZHQ_=>1H3
+!s100 ETVUAB9ERc9FQ`b6dPT9d0
+R7
+31
+R41
+!i10b 1
+R27
+Z67 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2c_master.vhdl|
+Z68 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2c_master.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 10 i2c_master 0 22 bhD5l`>[2e7UcZHQ_=>1H3
+l133
+L56
+V14nQlAdlaomRH]OYFao9`0
+!s100 J9Z;T_GWVV4:nSH8_kO]:1
+R7
+31
+R41
+!i10b 1
+R27
+R67
+R68
+!i113 1
+R12
+R13
+Ei2s_slave
+R38
+R23
+R2
+R3
+R4
+R0
+Z69 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2s_slave.vhdl
+Z70 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2s_slave.vhdl
+l0
+L21
+Va9=0IV0<Tf:mfIYC^A`ki2
+!s100 1<10KZ;K8ASl]Rk7ig2zB1
+R7
+31
+R41
+!i10b 1
+R27
+Z71 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2s_slave.vhdl|
+Z72 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2s_slave.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 9 i2s_slave 0 22 a9=0IV0<Tf:mfIYC^A`ki2
+l113
+L43
+VD9l;B0PjC:DW6dKPK63T;3
+!s100 =_hmW=NOfYMUhIV6OjB?H2
+R7
+31
+R41
+!i10b 1
+R27
+R71
+R72
+!i113 1
+R12
+R13
+Ep2s_unit
+R38
+R23
+R2
+R3
+R4
+R0
+Z73 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch05/vhdl/p2s_unit.vhdl
+Z74 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch05/vhdl/p2s_unit.vhdl
+l0
+L20
+V`EGWPcLHHA=[F5diBkJc>0
+!s100 d:K3_XS1EEoT5gDSc4Mge1
+R7
+31
+R26
+!i10b 1
+Z75 !s108 1579557559.000000
+Z76 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch05/vhdl/p2s_unit.vhdl|
+Z77 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch05/vhdl/p2s_unit.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 8 p2s_unit 0 22 `EGWPcLHHA=[F5diBkJc>0
+l49
+L34
+VSFAAV3[=I6oj9jgZNC[^^2
+!s100 eb:NW:UHX5`a?d<bjV`GI1
+R7
+31
+R26
+!i10b 1
+R75
+R76
+R77
+!i113 1
+R12
+R13
+Epll
+R38
+R3
+R4
+R0
+Z78 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/pll.vhdl
+Z79 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/pll.vhdl
+l0
+L43
+Va4kce89cVe9W[X2:jX78O1
+!s100 YKdiUUz:?ebWkUlKCAMBc0
+R7
+31
+R21
+!i10b 1
+R57
+Z80 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/pll.vhdl|
+Z81 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/pll.vhdl|
+!i113 1
+R12
+R13
+Asyn
+R3
+R4
+DEx4 work 3 pll 0 22 a4kce89cVe9W[X2:jX78O1
+l143
+L55
+V;]bI0o89fdcbe79T:NHFe1
+!s100 ;1?b8=a`?PITbCHS3RjId3
+R7
+31
+R21
+!i10b 1
+R57
+R80
+R81
+!i113 1
+R12
+R13
+vpll_altpll
+R21
+!i10b 1
+!s100 Eb;jeE@hSo7YP`<A`2HYL1
+IXW_?5;^na]ag1NzbImbhA3
+R14
+R0
+w1579461282
+8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db/pll_altpll.v
+FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db/pll_altpll.v
+L0 30
+R16
+r1
+!s85 0
+31
+R57
+!s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db/pll_altpll.v|
+!i113 1
+R18
+!s92 -vlog01compat -work work +incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db
+R20
+Es2p_unit
+Z82 w1575577205
+R23
+R2
+R3
+R4
+R0
+Z83 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch06/vhdl/s2p_unit.vhdl
+Z84 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch06/vhdl/s2p_unit.vhdl
+l0
+L20
+V]fziC?=[mnQgV7m_389>S0
+!s100 FK_g2C==R;JlN1hl@l7K<3
+R7
+31
+R34
+!i10b 1
+R35
+Z85 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch06/vhdl/s2p_unit.vhdl|
+Z86 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch06/vhdl/s2p_unit.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 8 s2p_unit 0 22 ]fziC?=[mnQgV7m_389>S0
+l58
+L38
+VUZQO;6=_XDH@QL>aA60C72
+!s100 OGGXhUXmeFTzeW4<D?Q6F1
+R7
+31
+R34
+!i10b 1
+R35
+R85
+R86
+!i113 1
+R12
+R13
+Esdram_ctrl
+R15
+R31
+R2
+R3
+R4
+R0
+Z87 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/sdram_ctrl_func_model.vhdl
+Z88 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/sdram_ctrl_func_model.vhdl
+l0
+L23
+V?806Kc[^OVBCj3B]i0:n_0
+!s100 6K63KQB9V:I5a?:i`=Zk63
+R7
+31
+R8
+!i10b 1
+R9
+Z89 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/sdram_ctrl_func_model.vhdl|
+Z90 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/sdram_ctrl_func_model.vhdl|
+!i113 1
+R12
+R13
+Asim
+R31
+R2
+R3
+R4
+DEx4 work 10 sdram_ctrl 0 22 ?806Kc[^OVBCj3B]i0:n_0
+l92
+L48
+Vk6C8XXlozn]R<nVa8ZBXY0
+!s100 7C2^[1;Zb@`@[KBa@<XPn2
+R7
+31
+R8
+!i10b 1
+R9
+R89
+R90
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 10 sdram_ctrl 0 22 KoQ[4UJehL>9W;[Q?<XQd2
+l130
+L34
+VJ;QV:@cYGIkf0>C>DohmZ3
+!s100 ;KDnf105o1bcUeB^gHQSz1
+R7
+31
+R34
+!i10b 1
+R35
+!s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl.vhdl|
+!s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl.vhdl|
+!i113 1
+R12
+R13
+FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl.vhdl
+8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl.vhdl
+vsdram_ctrl_wrapper
+R21
+!i10b 1
+!s100 nR6zOV:YOoz6CZ30<CdhN0
+I5M;;Kl1R16PCiKMQH3?ij3
+R14
+R0
+Z91 w1572880064
+Z92 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl_wrapper.v
+Z93 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl_wrapper.v
+L0 158
+R16
+r1
+!s85 0
+31
+R57
+Z94 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl_wrapper.v|
+Z95 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl_wrapper.v|
+!i113 1
+R18
+R19
+R20
+vsdram_ctrl_wrapper_input_efifo_module
+R21
+!i10b 1
+!s100 bb2Vg9daLPEYLj5WK:[9z0
+IY8ge=RDdAhA0e?Sdj[[oh2
+R14
+R0
+R91
+R92
+R93
+L0 21
+R16
+r1
+!s85 0
+31
+R57
+R94
+R95
+!i113 1
+R18
+R19
+R20
+Esdram_interface
+R91
+R23
+R2
+R3
+R4
+R0
+Z96 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_interface.vhdl
+Z97 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_interface.vhdl
+l0
+L28
+VCh6gjcV6Oc]2KX6@LT1n>1
+!s100 L880Ic8;HkLKFgE[FZOId2
+R7
+31
+R51
+!i10b 1
+R52
+Z98 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_interface.vhdl|
+Z99 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_interface.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 15 sdram_interface 0 22 Ch6gjcV6Oc]2KX6@LT1n>1
+l195
+L63
+Ven3i9nIE[Hj3SmhaG3KYo0
+!s100 1X4C_GnODJnbmfS<[4KB=1
+R7
+31
+R51
+!i10b 1
+R52
+R98
+R99
+!i113 1
+R12
+R13
+Euart_interface
+Z100 w1572880060
+R23
+R2
+R3
+R4
+R0
+Z101 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_interface.vhdl
+Z102 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_interface.vhdl
+l0
+L20
+Vk_D@]H>^S>nnd<PfJV<6m3
+!s100 ]MGU0B7TYUL=B8jIR00^l0
+R7
+31
+R26
+!i10b 1
+R75
+Z103 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_interface.vhdl|
+Z104 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_interface.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 14 uart_interface 0 22 k_D@]H>^S>nnd<PfJV<6m3
+l76
+L36
+V`h3WjSnoX[W[93A9Ehn;b1
+!s100 JFJ9OXnde3[agTkVV32Q11
+R7
+31
+R26
+!i10b 1
+R75
+R103
+R104
+!i113 1
+R12
+R13
+Euart_regif_converter
+R100
+R23
+R2
+R3
+R4
+R0
+Z105 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_regif_converter.vhdl
+Z106 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_regif_converter.vhdl
+l0
+L20
+V`Lbj70DG5l@mbB]o>i:Ig2
+!s100 FBP1[`o]BzFCFm@;d:chU0
+R7
+31
+R26
+!i10b 1
+R75
+Z107 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_regif_converter.vhdl|
+Z108 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_regif_converter.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 20 uart_regif_converter 0 22 `Lbj70DG5l@mbB]o>i:Ig2
+l125
+L39
+V`zzJKG^:b_V5iie;9Q48X3
+!s100 PkloN<G3Y0@n^6=Ud;8CX1
+R7
+31
+R26
+!i10b 1
+R75
+R107
+R108
+!i113 1
+R12
+R13
+Euart_tester
+R100
+R23
+R2
+R3
+R4
+R0
+Z109 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch07/testbench/uart_tester.vhdl
+Z110 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch07/testbench/uart_tester.vhdl
+l0
+L23
+VUDDW3nU7aNGImF=Y0=Ie01
+!s100 0[h?58d=NHamjHRVZ4PPb2
+R7
+31
+R8
+!i10b 1
+R9
+Z111 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch07/testbench/uart_tester.vhdl|
+Z112 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch07/testbench/uart_tester.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 11 uart_tester 0 22 UDDW3nU7aNGImF=Y0=Ie01
+l59
+L37
+VQiL4kEDHM7b0g;o`zYbe52
+!s100 X^5b;D:0aUE8:U0^HAE5h1
+R7
+31
+R8
+!i10b 1
+R9
+R111
+R112
+!i113 1
+R12
+R13
+Euart_transceiver
+R15
+R23
+R31
+R2
+R3
+R4
+R0
+Z113 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_transceiver.vhdl
+Z114 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_transceiver.vhdl
+l0
+L21
+VUAaCGfonYYFCG@jno7ck?1
+!s100 fSZS`nR]6PDSaPJDfVheL0
+R7
+31
+R51
+!i10b 1
+R52
+Z115 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_transceiver.vhdl|
+Z116 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_transceiver.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R31
+R2
+R3
+R4
+DEx4 work 16 uart_transceiver 0 22 UAaCGfonYYFCG@jno7ck?1
+l127
+L37
+Vk7US7<MdL`HmJ_>2:GH?41
+!s100 2eeBXVb21YoWVl^PP<46O2
+R7
+31
+R51
+!i10b 1
+R52
+R115
+R116
+!i113 1
+R12
+R13
+Ewm8731_configurator
+R38
+R23
+R2
+R3
+R4
+R0
+Z117 8C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/wm8731_configurator.vhdl
+Z118 FC:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/wm8731_configurator.vhdl
+l0
+L23
+VBb_UzI14ELFIFK@HKajC[1
+!s100 DCl4UnDU^FQbNR>4Y4he<2
+R7
+31
+R41
+!i10b 1
+R35
+Z119 !s90 -reportprogress|300|-93|-work|work|C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/wm8731_configurator.vhdl|
+Z120 !s107 C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/wm8731_configurator.vhdl|
+!i113 1
+R12
+R13
+Artl
+R23
+R2
+R3
+R4
+DEx4 work 19 wm8731_configurator 0 22 Bb_UzI14ELFIFK@HKajC[1
+l90
+L49
+V<a5c6?bH:]DLzzhIZ2TjQ2
+!s100 h=<jH_DHSAlPnea`Zbi_50
+R7
+31
+R41
+!i10b 1
+R35
+R119
+R120
+!i113 1
+R12
+R13

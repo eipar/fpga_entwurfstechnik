@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Jan 24 13:13:53 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : fpga_audiofx
+Top-level Entity Name : fpga_audiofx
+Family : Cyclone IV E
+Total logic elements : 4,908
+    Total combinational functions : 3,625
+    Dedicated logic registers : 2,861
+Total registers : 2861
+Total pins : 71
+Total virtual pins : 0
+Total memory bits : 2,016
+Embedded Multiplier 9-bit elements : 24
+Total PLLs : 1

@@ -1,0 +1,13 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_left_gen:5:gain_left_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_left_gen:4:gain_left_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_right_gen:5:gain_right_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_right_gen:4:gain_right_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_left_gen:1:gain_left_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:gain_left_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_left_gen:3:gain_left_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_left_gen:2:gain_left_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_right_gen:1:gain_right_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:gain_right_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_right_gen:3:gain_right_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,gain_control:\gain_right_gen:2:gain_right_inst|lpm_mult:Mult0|mult_l4t:auto_generated|mac_out2,

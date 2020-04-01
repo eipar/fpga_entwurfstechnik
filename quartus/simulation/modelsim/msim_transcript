@@ -1,0 +1,619 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# ERROR: No extended dataflow license exists
+# do fpga_audiofx_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_controller.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:15 on Jan 20,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl" C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_controller.v 
+# -- Compiling module altera_reset_controller
+# 
+# Top level modules:
+# 	altera_reset_controller
+# End time: 22:59:15 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_synchronizer.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:15 on Jan 20,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl" C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/altera_reset_synchronizer.v 
+# -- Compiling module altera_reset_synchronizer
+# 
+# Top level modules:
+# 	altera_reset_synchronizer
+# End time: 22:59:16 on Jan 20,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl_wrapper.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:16 on Jan 20,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl" C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl_wrapper.v 
+# -- Compiling module sdram_ctrl_wrapper_input_efifo_module
+# -- Compiling module sdram_ctrl_wrapper
+# 
+# Top level modules:
+# 	sdram_ctrl_wrapper
+# End time: 22:59:16 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db/pll_altpll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:16 on Jan 20,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db" C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/db/pll_altpll.v 
+# -- Compiling module pll_altpll
+# 
+# Top level modules:
+# 	pll_altpll
+# End time: 22:59:16 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/pll.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:16 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/pll.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pll
+# -- Compiling architecture SYN of pll
+# End time: 22:59:16 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fpga_audiofx_pkg.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:16 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fpga_audiofx_pkg.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling package fpga_audiofx_pkg
+# -- Compiling package body fpga_audiofx_pkg
+# -- Loading package fpga_audiofx_pkg
+# End time: 22:59:17 on Jan 20,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fifo_sync_dc.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:17 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fifo_sync_dc.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fifo_sync_dc
+# -- Compiling architecture syn of fifo_sync_dc
+# End time: 22:59:17 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:17 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_ctrl.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity sdram_ctrl
+# -- Compiling architecture rtl of sdram_ctrl
+# End time: 22:59:17 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch06/vhdl/s2p_unit.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:17 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch06/vhdl/s2p_unit.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity s2p_unit
+# -- Compiling architecture rtl of s2p_unit
+# End time: 22:59:17 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/delay_unit.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:17 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/delay_unit.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity delay_unit
+# -- Compiling architecture rtl of delay_unit
+# ** Warning: C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/delay_unit.vhdl(413): (vcom-1445) Duplicate signal "sdram_req_slot_free" found in sensitivity list.
+# End time: 22:59:17 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/wm8731_configurator.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:17 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/wm8731_configurator.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity wm8731_configurator
+# -- Compiling architecture rtl of wm8731_configurator
+# End time: 22:59:18 on Jan 20,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2s_slave.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:18 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2s_slave.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity i2s_slave
+# -- Compiling architecture rtl of i2s_slave
+# End time: 22:59:18 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2c_master.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:18 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/i2c_master.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity i2c_master
+# -- Compiling architecture rtl of i2c_master
+# End time: 22:59:18 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fifo.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:18 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/fifo.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity fifo
+# -- Compiling architecture rtl of fifo
+# End time: 22:59:18 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/clock_generator.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:18 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch04/vhdl/clock_generator.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity clock_generator
+# -- Compiling architecture rtl of clock_generator
+# End time: 22:59:19 on Jan 20,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch05/vhdl/p2s_unit.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:19 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch05/vhdl/p2s_unit.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity p2s_unit
+# -- Compiling architecture rtl of p2s_unit
+# End time: 22:59:19 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_interface.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:19 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_interface.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity uart_interface
+# -- Compiling architecture rtl of uart_interface
+# End time: 22:59:19 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_regif_converter.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:19 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_regif_converter.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity uart_regif_converter
+# -- Compiling architecture rtl of uart_regif_converter
+# End time: 22:59:20 on Jan 20,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_transceiver.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:20 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch07/vhdl/uart_transceiver.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity uart_transceiver
+# -- Compiling architecture rtl of uart_transceiver
+# End time: 22:59:20 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_interface.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:20 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/sdram_interface.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity sdram_interface
+# -- Compiling architecture rtl of sdram_interface
+# End time: 22:59:20 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fpga_audiofx.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:20 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/vhdl/fpga_audiofx.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity fpga_audiofx
+# -- Compiling architecture rtl of fpga_audiofx
+# End time: 22:59:20 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/fpga_audiofx_tb.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:20 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/fpga_audiofx_tb.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity fpga_audiofx_tb
+# -- Compiling architecture rtl of fpga_audiofx_tb
+# End time: 22:59:21 on Jan 20,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/sdram_ctrl_func_model.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:21 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../testbench/sdram_ctrl_func_model.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Compiling entity sdram_ctrl
+# -- Compiling architecture sim of sdram_ctrl
+# End time: 22:59:21 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch07/testbench/uart_tester.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:21 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch07/testbench/uart_tester.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package fpga_audiofx_pkg
+# -- Compiling entity uart_tester
+# -- Compiling architecture rtl of uart_tester
+# End time: 22:59:21 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch04/testbench/acodec_model.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:59:21 on Jan 20,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Euge/Desktop/FPGA-Labor/Versuch08/quartus/../../Versuch04/testbench/acodec_model.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity acodec_model
+# -- Compiling architecture rtl of acodec_model
+# End time: 22:59:21 on Jan 20,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneive -L rtl_work -L work -voptargs="+acc"  fpga_audiofx_tb
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneive -L rtl_work -L work -voptargs=""+acc"" fpga_audiofx_tb 
+# Start time: 22:59:21 on Jan 20,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.fpga_audiofx_pkg(body)
+# Loading work.fpga_audiofx_tb(rtl)
+# Loading work.fpga_audiofx(rtl)
+# Loading work.pll(syn)
+# Loading altera_mf.altera_device_families(body)
+# Loading altera_mf.mf_pllpack(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading altera_mf.altpll(behavior)
+# Loading altera_mf.mf_cycloneiii_pll(vital_pll)
+# Loading altera_mf.mf_cda_mn_cntr(behave)
+# Loading altera_mf.mf_cda_scale_cntr(behave)
+# Loading work.wm8731_configurator(rtl)
+# Loading work.i2c_master(rtl)
+# Loading work.fifo(rtl)
+# Loading work.clock_generator(rtl)
+# Loading work.i2s_slave(rtl)
+# Loading work.uart_interface(rtl)
+# Loading ieee.math_real(body)
+# Loading work.uart_transceiver(rtl)
+# Loading work.uart_regif_converter(rtl)
+# Loading work.sdram_interface(rtl)
+# Loading work.fifo_sync_dc(syn)
+# Loading altera_mf.altera_mf_hint_evaluation(body)
+# Loading altera_mf.dcfifo(behavior)
+# Loading altera_mf.dcfifo_mixed_widths(behavior)
+# Loading altera_mf.dcfifo_async(behavior)
+# Loading altera_mf.dcfifo_dffpipe(behavior)
+# Loading altera_mf.dcfifo_fefifo(behavior)
+# Loading altera_mf.dcfifo_sync(behavior)
+# Loading altera_mf.dcfifo_low_latency(behavior)
+# Loading work.sdram_ctrl(sim)
+# Loading work.delay_unit(rtl)
+# Loading work.s2p_unit(rtl)
+# Loading work.p2s_unit(rtl)
+# Loading work.acodec_model(rtl)
+# Loading work.uart_tester(rtl)
+# ** Warning: Design size of 22665 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/uart_tester_inst/uart_transceiver_inst/txbuf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/uart_tester_inst/uart_transceiver_inst/txbuf_inst
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/uart_tester_inst/uart_transceiver_inst/txbuf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/uart_tester_inst/uart_transceiver_inst/rxbuf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/uart_tester_inst/uart_transceiver_inst/rxbuf_inst
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/uart_tester_inst/uart_transceiver_inst/rxbuf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_unit_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_unit_0
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/fifo_be_16_gen/fifo_be
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/fifo_be_16_gen/fifo_be
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/fifo_be_16_gen/fifo_be
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_rd_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/sdram_interface_inst/dcfifo_wr_inst/dcfifo_component/DCFIFO_MW/LOWLATENCY_FIFO/LOWLATENCY
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_transceiver_inst/txbuf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_transceiver_inst/txbuf_inst
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_transceiver_inst/txbuf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_transceiver_inst/rxbuf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_transceiver_inst/rxbuf_inst
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_transceiver_inst/rxbuf_inst
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/clk_gen
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/clk_gen
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/tx_buf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/tx_buf_inst
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/tx_buf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/rx_buf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/rx_buf_inst
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/rx_buf_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/wm8731_configurator_inst
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."<=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_unit_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_unit_0
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/clk_gen
+# ** Warning: NUMERIC_STD.">=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2c_master_inst/clk_gen
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/wm8731_configurator_inst
+# ** Warning: NUMERIC_STD."/=": metavalue detected, returning TRUE
+#    Time: 0 ps  Iteration: 2  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/i2s_slave_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/wm8731_configurator_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 3  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_regif_converter_inst
+# ** Note: Cyclone IV E PLL was reset
+#    Time: 0 ps  Iteration: 4  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/pll_inst/altpll_component/CYCLONEIII_ALTPLL/M5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 6  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_regif_converter_inst
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 7  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/uart_interface_inst/uart_regif_converter_inst
+# ** Note: Cyclone IV E PLL locked to incoming clock
+#    Time: 130 ns  Iteration: 3  Instance: /fpga_audiofx_tb/fpga_audiofx_inst/pll_inst/altpll_component/CYCLONEIII_ALTPLL/M5
+# Break key hit
+# Simulation stop requested.
+add wave -position insertpoint  \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/control_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/output_delay_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/write_pointer_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/read_pointer_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/max_write_pointer_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/enough_samples_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_ack_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_valid_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_data_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/p2s_ack_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/p2s_valid_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/p2s_data_0 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/outport_cnt \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/inc_outport_cnt \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/rst_outport_cnt \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/state \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/state_nxt
+add wave -position insertpoint  \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/sdram_select \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/sdram_write_en \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/sdram_address \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/sdram_data_in \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/sdram_data_out \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/sdram_request_en
+add wave -position insertpoint  \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/sdram_req_slot_free \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/sdram_data_avail
+add wave -position insertpoint  \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/control_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/output_delay_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/write_pointer_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/read_pointer_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/max_write_pointer_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/enough_samples_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_ack_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_valid_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/s2p_data_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/p2s_ack_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/p2s_valid_1 \
+sim:/fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/p2s_data_1 \
+
+
+force -freeze /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/output_delay_0(0) 00000001
+force -freeze /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/output_delay_0(1) 00000010
+force -freeze /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/control_0 00000111
+force -freeze /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/output_delay_1(0) 00000001
+force -freeze /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/output_delay_1(1) 00000010
+force -freeze /fpga_audiofx_tb/fpga_audiofx_inst/delay_unit_inst/control_1 00000111
+run 250000 ns
+# End time: 23:05:58 on Jan 20,2020, Elapsed time: 0:06:37
+# Errors: 0, Warnings: 92

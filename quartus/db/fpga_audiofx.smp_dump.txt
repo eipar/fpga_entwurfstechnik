@@ -1,0 +1,346 @@
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_mx_right_1|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_mx_right_1|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_mx_right_0|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_mx_right_0|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_mx_left_1|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_mx_left_1|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_mx_left_0|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_mx_left_0|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc12_13|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc12_13|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc10_11|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc10_11|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc8_9|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc8_9|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc6_7|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc6_7|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc4_5|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc4_5|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc2_3|s2p_unit:s2p_b|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|mixer_unit:mixer_unit_inst_gc2_3|s2p_unit:s2p_a|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_right_gen:5:gain_right_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_right_gen:4:gain_right_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_right_gen:3:gain_right_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_right_gen:2:gain_right_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_right_gen:1:gain_right_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_left_gen:5:gain_left_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_left_gen:4:gain_left_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_left_gen:3:gain_left_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_left_gen:2:gain_left_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:\gain_left_gen:1:gain_left_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:gain_right_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|gain_control:gain_left_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|delay_unit:delay_unit_inst|state
+Name state.ST_WAIT_DATA_1 state.ST_REQUEST_DATA_1 state.ST_WRITE_DATA_1 state.ST_WAIT_DATA_0 state.ST_REQUEST_DATA_0 state.ST_WRITE_DATA_0 state.ST_IDLE 
+state.ST_IDLE 0 0 0 0 0 0 0 
+state.ST_WRITE_DATA_0 0 0 0 0 0 1 1 
+state.ST_REQUEST_DATA_0 0 0 0 0 1 0 1 
+state.ST_WAIT_DATA_0 0 0 0 1 0 0 1 
+state.ST_WRITE_DATA_1 0 0 1 0 0 0 1 
+state.ST_REQUEST_DATA_1 0 1 0 0 0 0 1 
+state.ST_WAIT_DATA_1 1 0 0 0 0 0 1 
+
+State Machine - |fpga_audiofx|delay_unit:delay_unit_inst|s2p_unit:s2p_unit_1|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|delay_unit:delay_unit_inst|s2p_unit:s2p_unit_0|state
+Name state.ST_WAIT_ACK state.ST_GET_DATA state.ST_IDLE 
+state.ST_IDLE 0 0 0 
+state.ST_GET_DATA 0 1 1 
+state.ST_WAIT_ACK 1 0 1 
+
+State Machine - |fpga_audiofx|sdram_interface:sdram_interface_inst|sdram_ctrl:sdram_ctrl_inst|sdram_ctrl_wrapper:wrapper|m_next
+Name m_next.010000000 m_next.000010000 m_next.000001000 m_next.000000001 
+m_next.000000001 0 0 0 0 
+m_next.000001000 0 0 1 1 
+m_next.000010000 0 1 0 1 
+m_next.010000000 1 0 0 1 
+
+State Machine - |fpga_audiofx|sdram_interface:sdram_interface_inst|sdram_ctrl:sdram_ctrl_inst|sdram_ctrl_wrapper:wrapper|m_state
+Name m_state.100000000 m_state.010000000 m_state.001000000 m_state.000100000 m_state.000010000 m_state.000001000 m_state.000000100 m_state.000000010 m_state.000000001 
+m_state.000000001 0 0 0 0 0 0 0 0 0 
+m_state.000000010 0 0 0 0 0 0 0 1 1 
+m_state.000000100 0 0 0 0 0 0 1 0 1 
+m_state.000001000 0 0 0 0 0 1 0 0 1 
+m_state.000010000 0 0 0 0 1 0 0 0 1 
+m_state.000100000 0 0 0 1 0 0 0 0 1 
+m_state.001000000 0 0 1 0 0 0 0 0 1 
+m_state.010000000 0 1 0 0 0 0 0 0 1 
+m_state.100000000 1 0 0 0 0 0 0 0 1 
+
+State Machine - |fpga_audiofx|sdram_interface:sdram_interface_inst|sdram_ctrl:sdram_ctrl_inst|sdram_ctrl_wrapper:wrapper|i_next
+Name i_next.111 i_next.101 i_next.010 i_next.000 
+i_next.000 0 0 0 0 
+i_next.010 0 0 1 1 
+i_next.101 0 1 0 1 
+i_next.111 1 0 0 1 
+
+State Machine - |fpga_audiofx|sdram_interface:sdram_interface_inst|sdram_ctrl:sdram_ctrl_inst|sdram_ctrl_wrapper:wrapper|i_state
+Name i_state.111 i_state.101 i_state.011 i_state.010 i_state.001 i_state.000 
+i_state.000 0 0 0 0 0 0 
+i_state.001 0 0 0 0 1 1 
+i_state.010 0 0 0 1 0 1 
+i_state.011 0 0 1 0 0 1 
+i_state.101 0 1 0 0 0 1 
+i_state.111 1 0 0 0 0 1 
+
+State Machine - |fpga_audiofx|uart_interface:uart_interface_inst|uart_regif_converter:uart_regif_converter_inst|cg_state
+Name cg_state.SEND_RE cg_state.WAIT_ACK2 cg_state.WAIT_ACK1 cg_state.CG_IDLE 
+cg_state.CG_IDLE 0 0 0 0 
+cg_state.WAIT_ACK1 0 0 1 1 
+cg_state.WAIT_ACK2 0 1 0 1 
+cg_state.SEND_RE 1 0 0 1 
+
+State Machine - |fpga_audiofx|uart_interface:uart_interface_inst|uart_regif_converter:uart_regif_converter_inst|ps_state
+Name ps_state.EQ_VAL ps_state.EQ_STATE ps_state.QU_STATE ps_state.R_VAL ps_state.R_STATE ps_state.M_VAL ps_state.M_STATE ps_state.PS_IDLE 
+ps_state.PS_IDLE 0 0 0 0 0 0 0 0 
+ps_state.M_STATE 0 0 0 0 0 0 1 1 
+ps_state.M_VAL 0 0 0 0 0 1 0 1 
+ps_state.R_STATE 0 0 0 0 1 0 0 1 
+ps_state.R_VAL 0 0 0 1 0 0 0 1 
+ps_state.QU_STATE 0 0 1 0 0 0 0 1 
+ps_state.EQ_STATE 0 1 0 0 0 0 0 1 
+ps_state.EQ_VAL 1 0 0 0 0 0 0 1 
+
+State Machine - |fpga_audiofx|uart_interface:uart_interface_inst|uart_regif_converter:uart_regif_converter_inst|sc_state
+Name sc_state.CHAR_AFTER_VALUE sc_state.SEND_NUMBER sc_state.THIRD_NIBBLE sc_state.SECOND_NIBBLE_2 sc_state.SECOND_NIBBLE_C sc_state.SECOND_NIBBLE_U sc_state.FIRST_NIBBLE_2 sc_state.FIRST_NIBBLE_C sc_state.FIRST_NIBBLE_U sc_state.FIRST_NIBBLE_0 sc_state.SC_IDLE 
+sc_state.SC_IDLE 0 0 0 0 0 0 0 0 0 0 0 
+sc_state.FIRST_NIBBLE_0 0 0 0 0 0 0 0 0 0 1 1 
+sc_state.FIRST_NIBBLE_U 0 0 0 0 0 0 0 0 1 0 1 
+sc_state.FIRST_NIBBLE_C 0 0 0 0 0 0 0 1 0 0 1 
+sc_state.FIRST_NIBBLE_2 0 0 0 0 0 0 1 0 0 0 1 
+sc_state.SECOND_NIBBLE_U 0 0 0 0 0 1 0 0 0 0 1 
+sc_state.SECOND_NIBBLE_C 0 0 0 0 1 0 0 0 0 0 1 
+sc_state.SECOND_NIBBLE_2 0 0 0 1 0 0 0 0 0 0 1 
+sc_state.THIRD_NIBBLE 0 0 1 0 0 0 0 0 0 0 1 
+sc_state.SEND_NUMBER 0 1 0 0 0 0 0 0 0 0 1 
+sc_state.CHAR_AFTER_VALUE 1 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |fpga_audiofx|uart_interface:uart_interface_inst|uart_transceiver:uart_transceiver_inst|state_tx
+Name state_tx.S_STOPBITS state_tx.S_DATABITS state_tx.S_STARTBIT state_tx.S_IDLE 
+state_tx.S_IDLE 0 0 0 0 
+state_tx.S_STARTBIT 0 0 1 1 
+state_tx.S_DATABITS 0 1 0 1 
+state_tx.S_STOPBITS 1 0 0 1 
+
+State Machine - |fpga_audiofx|uart_interface:uart_interface_inst|uart_transceiver:uart_transceiver_inst|state_rx
+Name state_rx.S_STOPBITS state_rx.S_DATABITS state_rx.S_HALFSTARTBIT state_rx.S_IDLE 
+state_rx.S_IDLE 0 0 0 0 
+state_rx.S_HALFSTARTBIT 0 0 1 1 
+state_rx.S_DATABITS 0 1 0 1 
+state_rx.S_STOPBITS 1 0 0 1 
+
+State Machine - |fpga_audiofx|i2s_slave:i2s_slave_inst|state_aout
+Name state_aout.S_WAIT_1BCLK_FALL state_aout.S_WAIT_1BCLK_RISE state_aout.S_WAIT_FOR_EDGE_LR 
+state_aout.S_WAIT_FOR_EDGE_LR 0 0 0 
+state_aout.S_WAIT_1BCLK_RISE 0 1 1 
+state_aout.S_WAIT_1BCLK_FALL 1 0 1 
+
+State Machine - |fpga_audiofx|i2s_slave:i2s_slave_inst|state_ain
+Name state_ain.S_WAIT_1BCLK_FALL state_ain.S_WAIT_1BCLK_RISE state_ain.S_WAIT_FOR_EDGE_LR 
+state_ain.S_WAIT_FOR_EDGE_LR 0 0 0 
+state_ain.S_WAIT_1BCLK_RISE 0 1 1 
+state_ain.S_WAIT_1BCLK_FALL 1 0 1 
+
+State Machine - |fpga_audiofx|i2c_master:i2c_master_inst|follow_state
+Name follow_state.S_I2C_STOP follow_state.S_I2C_TX_ACK follow_state.S_I2C_RX_ACK follow_state.S_I2C_RX_BYTE follow_state.S_I2C_REPEAT_START follow_state.S_I2C_TURN follow_state.S_I2C_TX_BYTE follow_state.S_I2C_SLAVE_ADDR follow_state.S_I2C_START follow_state.S_SYNC follow_state.S_IDLE 
+follow_state.S_IDLE 0 0 0 0 0 0 0 0 0 0 0 
+follow_state.S_SYNC 0 0 0 0 0 0 0 0 0 1 1 
+follow_state.S_I2C_START 0 0 0 0 0 0 0 0 1 0 1 
+follow_state.S_I2C_SLAVE_ADDR 0 0 0 0 0 0 0 1 0 0 1 
+follow_state.S_I2C_TX_BYTE 0 0 0 0 0 0 1 0 0 0 1 
+follow_state.S_I2C_TURN 0 0 0 0 0 1 0 0 0 0 1 
+follow_state.S_I2C_REPEAT_START 0 0 0 0 1 0 0 0 0 0 1 
+follow_state.S_I2C_RX_BYTE 0 0 0 1 0 0 0 0 0 0 1 
+follow_state.S_I2C_RX_ACK 0 0 1 0 0 0 0 0 0 0 1 
+follow_state.S_I2C_TX_ACK 0 1 0 0 0 0 0 0 0 0 1 
+follow_state.S_I2C_STOP 1 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |fpga_audiofx|i2c_master:i2c_master_inst|state
+Name state.S_I2C_STOP state.S_I2C_TX_ACK state.S_I2C_RX_ACK state.S_I2C_RX_BYTE state.S_I2C_REPEAT_START state.S_I2C_TURN state.S_I2C_TX_BYTE state.S_I2C_SLAVE_ADDR state.S_I2C_START state.S_SYNC state.S_IDLE 
+state.S_IDLE 0 0 0 0 0 0 0 0 0 0 0 
+state.S_SYNC 0 0 0 0 0 0 0 0 0 1 1 
+state.S_I2C_START 0 0 0 0 0 0 0 0 1 0 1 
+state.S_I2C_SLAVE_ADDR 0 0 0 0 0 0 0 1 0 0 1 
+state.S_I2C_TX_BYTE 0 0 0 0 0 0 1 0 0 0 1 
+state.S_I2C_TURN 0 0 0 0 0 1 0 0 0 0 1 
+state.S_I2C_REPEAT_START 0 0 0 0 1 0 0 0 0 0 1 
+state.S_I2C_RX_BYTE 0 0 0 1 0 0 0 0 0 0 1 
+state.S_I2C_RX_ACK 0 0 1 0 0 0 0 0 0 0 1 
+state.S_I2C_TX_ACK 0 1 0 0 0 0 0 0 0 0 1 
+state.S_I2C_STOP 1 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |fpga_audiofx|wm8731_configurator:wm8731_configurator_inst|state
+Name state.S_WAIT state.S_WR_BYTE1 state.S_WR_BYTE0 state.S_IDLE state.S_INIT_WAIT state.S_INIT_BYTE1 state.S_INIT_BYTE0 state.S_BOOT 
+state.S_BOOT 0 0 0 0 0 0 0 0 
+state.S_INIT_BYTE0 0 0 0 0 0 0 1 1 
+state.S_INIT_BYTE1 0 0 0 0 0 1 0 1 
+state.S_INIT_WAIT 0 0 0 0 1 0 0 1 
+state.S_IDLE 0 0 0 1 0 0 0 1 
+state.S_WR_BYTE0 0 0 1 0 0 0 0 1 
+state.S_WR_BYTE1 0 1 0 0 0 0 0 1 
+state.S_WAIT 1 0 0 0 0 0 0 1 
